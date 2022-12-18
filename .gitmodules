@@ -1,0 +1,3 @@
+[submodule "main/driver"]
+	path = main/driver
+	url = https://github.com/JA1TYE/ESP32_aic3204.git
